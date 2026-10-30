@@ -1,7 +1,7 @@
 from pathlib import Path
 import pandas as pd
 import numpy as np
-# ADVANCED CDR ANALYZER FOR MAHARASHTRA CYBER CELL
+# ADVANCED CDR ANALYZER 
 FILE=Path("sample_cdr.csv")
 print("cybershield forensics")
 print("CDR-ANALYZER - version 1.0")
